@@ -20,7 +20,7 @@ static void mem_overrun1(void)
 
 static void mem_overrun2(void)
 {
-	char array[5];
+	char array[6];
 	strcpy(array,"hello");
 }
 
