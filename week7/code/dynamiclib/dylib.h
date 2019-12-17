@@ -1,0 +1,2 @@
+void chmd();
+void menu();
